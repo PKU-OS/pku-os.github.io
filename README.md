@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## PKU Operating System Course Website
+This repo contains the source code for the main page of PKU Operating System Course website. 
+
+### How to use
+In each new semester, you need to add one entry in the [index.md](./index.md) under the *Offerings* title and create a new website under the guidance in this [repo](https://github.com/PKU-OS/sp22).
 
 You can use the [editor on GitHub](https://github.com/pmarsceill/test-jtd/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
