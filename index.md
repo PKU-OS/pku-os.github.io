@@ -10,7 +10,7 @@ nav_exclude: true
 Peking University
 {: .mb-0 .fs-6 .text-grey-dk-000 }
 
-<img src="/pkuos-pure.svg">
+<img src="/pkuos.svg">
 
 ## Offerings
 1. [Spring 2022](sp22)
