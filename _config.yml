@@ -17,7 +17,7 @@ title: PKUOS
 description: Operating System Honor Track
 author: Peking University
 baseurl: ~ # the subpath of your site, e.g. /blog
-url: 'https://pkuos.systems' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://pku-os.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
 
 # Theme settings
 remote_theme: pmarsceill/just-the-docs@v0.2.5-release
