@@ -17,4 +17,5 @@ operating systems design and implementation.
 
 Offerings:
 1. [Spring 2022](sp22)
+2. [Spring 2023](sp23)
 <br>
