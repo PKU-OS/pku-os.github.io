@@ -16,6 +16,7 @@ This course teaches the key concepts, principles, algorithms and mechanisms of
 operating systems design and implementation.
 
 Offerings:
-1. [Spring 2023](sp23)
-2. [Spring 2022](sp22)
+1. [Spring 2024](sp24)
+2. [Spring 2023](sp23)
+3. [Spring 2022](sp22)
 <br>
